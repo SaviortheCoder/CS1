@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     projector_problems
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _problem_one, symObjAddr: 0x0, symBinAddr: 0x100003870, symSize: 0x160 }
+  - { offsetInCU: 0x80, offset: 0x80, size: 0x8, addend: 0x0, symName: _problem_one, symObjAddr: 0x0, symBinAddr: 0x100003870, symSize: 0x160 }
+  - { offsetInCU: 0x134, offset: 0x134, size: 0x8, addend: 0x0, symName: _maximum_angle, symObjAddr: 0x160, symBinAddr: 0x1000039D0, symSize: 0x110 }
+  - { offsetInCU: 0x194, offset: 0x194, size: 0x8, addend: 0x0, symName: _mergee, symObjAddr: 0x270, symBinAddr: 0x100003AE0, symSize: 0x2A0 }
+  - { offsetInCU: 0x244, offset: 0x244, size: 0x8, addend: 0x0, symName: _mergesortt, symObjAddr: 0x510, symBinAddr: 0x100003D80, symSize: 0x80 }
+  - { offsetInCU: 0x292, offset: 0x292, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x590, symBinAddr: 0x100003E00, symSize: 0x142 }
+...

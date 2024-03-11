@@ -1,0 +1,10 @@
+9
+buy acharredbagel 1 100
+buy charredbagel 100 10000
+buy spicyswirls 150 1
+change_price acharredbagel 1000
+change_price charredbagel 100
+change_price spicyswirls 10
+sell acharredbagel 100
+sell charredbagel 100
+sell spicyswirls 100

@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     inventory
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _hashfunc, symObjAddr: 0x0, symBinAddr: 0x100003320, symSize: 0x70 }
+  - { offsetInCU: 0xDD, offset: 0xDD, size: 0x8, addend: 0x0, symName: _hashfunc, symObjAddr: 0x0, symBinAddr: 0x100003320, symSize: 0x70 }
+  - { offsetInCU: 0x14B, offset: 0x14B, size: 0x8, addend: 0x0, symName: _createtable, symObjAddr: 0x70, symBinAddr: 0x100003390, symSize: 0x70 }
+  - { offsetInCU: 0x18B, offset: 0x18B, size: 0x8, addend: 0x0, symName: _createnode, symObjAddr: 0xE0, symBinAddr: 0x100003400, symSize: 0x40 }
+  - { offsetInCU: 0x1C1, offset: 0x1C1, size: 0x8, addend: 0x0, symName: _createitem, symObjAddr: 0x120, symBinAddr: 0x100003440, symSize: 0x50 }
+  - { offsetInCU: 0x213, offset: 0x213, size: 0x8, addend: 0x0, symName: _buy, symObjAddr: 0x170, symBinAddr: 0x100003490, symSize: 0x150 }
+  - { offsetInCU: 0x2B6, offset: 0x2B6, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x2C0, symBinAddr: 0x1000035E0, symSize: 0xB0 }
+  - { offsetInCU: 0x312, offset: 0x312, size: 0x8, addend: 0x0, symName: _sell, symObjAddr: 0x370, symBinAddr: 0x100003690, symSize: 0x140 }
+  - { offsetInCU: 0x38A, offset: 0x38A, size: 0x8, addend: 0x0, symName: _change_price, symObjAddr: 0x4B0, symBinAddr: 0x1000037D0, symSize: 0xA0 }
+  - { offsetInCU: 0x3F4, offset: 0x3F4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x550, symBinAddr: 0x100003870, symSize: 0x6BF }
+...
